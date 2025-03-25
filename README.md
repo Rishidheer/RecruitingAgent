@@ -77,6 +77,4 @@ Contributing
 
 Feel free to submit issues or pull requests to enhance the functionality of the AI agent.
 
-License
 
-This project is licensed under the MIT License.
